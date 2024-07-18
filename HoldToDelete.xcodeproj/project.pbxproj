@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2F138EE92C48C766007A4D07 /* DeleteCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F138EE82C48C766007A4D07 /* DeleteCard.swift */; };
+		2F138EEB2C48C789007A4D07 /* HoldButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F138EEA2C48C789007A4D07 /* HoldButton.swift */; };
+		2F138EED2C48C7A6007A4D07 /* ReclineLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F138EEC2C48C7A6007A4D07 /* ReclineLine.swift */; };
+		2F138EEF2C48C7F6007A4D07 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F138EEE2C48C7F6007A4D07 /* Constants.swift */; };
 		2FF92FCE2C481F460031F9EF /* HoldToDeleteApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF92FCD2C481F460031F9EF /* HoldToDeleteApp.swift */; };
 		2FF92FD02C481F460031F9EF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF92FCF2C481F460031F9EF /* ContentView.swift */; };
 		2FF92FD22C481F470031F9EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FF92FD12C481F470031F9EF /* Assets.xcassets */; };
@@ -14,6 +18,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2F138EE82C48C766007A4D07 /* DeleteCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteCard.swift; sourceTree = "<group>"; };
+		2F138EEA2C48C789007A4D07 /* HoldButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HoldButton.swift; sourceTree = "<group>"; };
+		2F138EEC2C48C7A6007A4D07 /* ReclineLine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReclineLine.swift; sourceTree = "<group>"; };
+		2F138EEE2C48C7F6007A4D07 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		2FF92FCA2C481F460031F9EF /* HoldToDelete.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HoldToDelete.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FF92FCD2C481F460031F9EF /* HoldToDeleteApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HoldToDeleteApp.swift; sourceTree = "<group>"; };
 		2FF92FCF2C481F460031F9EF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +61,10 @@
 			children = (
 				2FF92FCD2C481F460031F9EF /* HoldToDeleteApp.swift */,
 				2FF92FCF2C481F460031F9EF /* ContentView.swift */,
+				2F138EE82C48C766007A4D07 /* DeleteCard.swift */,
+				2F138EEA2C48C789007A4D07 /* HoldButton.swift */,
+				2F138EEC2C48C7A6007A4D07 /* ReclineLine.swift */,
+				2F138EEE2C48C7F6007A4D07 /* Constants.swift */,
 				2FF92FD12C481F470031F9EF /* Assets.xcassets */,
 				2FF92FD32C481F470031F9EF /* Preview Content */,
 			);
@@ -139,6 +151,10 @@
 			files = (
 				2FF92FD02C481F460031F9EF /* ContentView.swift in Sources */,
 				2FF92FCE2C481F460031F9EF /* HoldToDeleteApp.swift in Sources */,
+				2F138EEB2C48C789007A4D07 /* HoldButton.swift in Sources */,
+				2F138EED2C48C7A6007A4D07 /* ReclineLine.swift in Sources */,
+				2F138EE92C48C766007A4D07 /* DeleteCard.swift in Sources */,
+				2F138EEF2C48C7F6007A4D07 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
